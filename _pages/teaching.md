@@ -6,6 +6,8 @@ description: Materials for courses you taught. Replace this text with your descr
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+I have been a Teaching Assistant(TA) for the following courses in the past.
 
-Organize your courses by years, topics, or universities, however you like!
+|         Course Details          |       Semester      |
+| ------------------------------- | ------------------- |
+| Pattern Recognition(BITS F446)  | Semester-2 2021-22  |
