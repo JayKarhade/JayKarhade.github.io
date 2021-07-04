@@ -2,9 +2,11 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: I have been a Teaching Assistant(TA) for the following courses in the past.
 nav: true
 ---
+I have been a Teaching Assistant(TA) for the following courses in the past.
+
+
 
 |         Course Details          |       Semester      |
 | ------------------------------- | ------------------- |
